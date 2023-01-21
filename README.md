@@ -11,5 +11,5 @@ Calm down and distract yourself by playing this game in any uncomfortable situat
 - In the future, I will turn the rings into cute donuts of different colors to make this game more appealing to children.
 - The sound added to the game is "Aloha Ae", a very relaxing soundtrack by Sponge Bob, the favorite cartoon of both me and thousands of children. In addition, children will remember the calming mood when they watched the cartoon and will relax more.
 
-# Note: 
+Note: 
 This game is quite possible to be converted into a VR Project in the future.
